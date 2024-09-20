@@ -1,3 +1,6 @@
+# Deprecated ⚠️
+Moved to: https://github.com/saritasa-nest/usummit-html-docx
+
 # HTML-DOCX
 
 A tool for conversion of HTML to docx formatted content
